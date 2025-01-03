@@ -4,11 +4,12 @@ A fun and interactive website to propose to your significant other. The "No" but
 
 ## USAGE
 
+- Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/redwine-1/YesOrNo-Proposal.git
-
-# Navigate to the project directory
+```
+- Navigate to the project directory
+```bash
 cd YesOrNo-Proposal
 
 ```
