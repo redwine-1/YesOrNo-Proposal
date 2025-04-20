@@ -13,7 +13,4 @@ git clone https://github.com/redwine-1/YesOrNo-Proposal.git
 cd YesOrNo-Proposal
 
 ```
-
-## Usage
-
-change the name in the index.html file to your significant other's name in the `div` with id `message`. And deploy the website.
+- change the name in the `index.html` file to your prefered name in the `div` with id `message`. And deploy the website.
